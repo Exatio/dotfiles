@@ -200,16 +200,16 @@ fonts=(
     "otf-font-awesome"
     "otf-font-awesome-4"
     "ttf-droid"
-    "ttf-fira-code"
     "ttf-jetbrains-mono"
     "ttf-jetbrains-mono-nerd"
     "ttf-font-awesome"
     "ttf-fira-sans"
-    "ttf-fira-code"
     "ttf-firacode-nerd"
     "cantarell-fonts"
     "ttf-iosevka-nerd"
     "ttf-meslo-nerd-font-powerlevel10k"
+    "otf-font-awesome"
+    "otf-font-awesome-4"
 );
 
 BLUETOOTH="Bluetooth";
