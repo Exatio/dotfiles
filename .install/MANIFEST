@@ -1,0 +1,16 @@
+alacritty|symlink|.config
+btop|symlink|.config
+cava|symlink|.config
+dunst|symlink|.config
+hypr|symlink|.config
+kitty|symlink|.config
+scripts|symlink|.config
+swappy|symlink|.config
+swaylock|symlink|.config
+tofi|symlink|.config
+waybar|symlink|.config
+wlogout|symlink|.config
+xfce4/helpers.rc|symlink|.config
+.emacs|symlink|
+.emacs.rc|symlink|
+.emacs.snippets|symlink|

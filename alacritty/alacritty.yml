@@ -1,0 +1,15 @@
+window:
+  padding:
+    x: 15
+    y: 15
+  opacity: 0.7
+
+font:
+  normal:
+    family: Iosevka Nerd Font
+    style: ss05
+  size: 15.0
+
+
+shell:
+  program: /bin/zsh
