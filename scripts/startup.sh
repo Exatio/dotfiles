@@ -9,9 +9,6 @@ scripts=$HOME/.config/scripts
 ## Notification daemon
 dunst -config ~/.config/dunst/dunstrc &
 
-## battery notification
-$scripts/battery_notification.sh &
-
 ## screen locking when idle
 $scripts/idle_handler.sh &
 
@@ -33,7 +30,6 @@ dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 
 ## Use until EWW configured
-blueman-applet & 
 nm-applet --indicator &
 
 ## Setup Wallpapers & Colors with pywal
